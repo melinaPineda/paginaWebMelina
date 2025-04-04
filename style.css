@@ -1,0 +1,12 @@
+.titulo1{
+    font-size: 2.5cm;
+    font-style: italic;
+    text-align: center;
+    text-decoration: overline underline;
+    color: cadetblue;
+}
+.Inicio{
+    background-image: url(PaginaWeb/Img/imgAstronauta.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
