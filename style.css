@@ -1,0 +1,70 @@
+.Inicio{
+    background-image: url(Img/imgAstronauta.jpeg);
+    background-size: cover;
+}
+.misions{
+    background-image: url(Img/mision.jpeg);
+    background-size: cover;
+}
+.technology{
+    background-image: url(Img/tecnologia.jpeg);
+    background-size: cover;
+}
+.history{
+    background-image: url(Img/historia.jpeg);
+    background-size: cover;
+}
+.titulo1{
+    color: rgb(136, 139, 165);
+    font-style: italic;
+    font-size: 2.5cm;
+    text-align: center;
+    text-decoration:underline overline  rgb(136, 139, 165);
+}
+.titulo2{
+    color: rgb(136, 139, 165);
+    font-style: italic;
+    font-size: 2.5cm;
+    text-align: center;
+    text-decoration:underline overline  rgb(136, 139, 165);
+}
+.titulo3{
+    color: rgb(136, 139, 165);
+    font-style: italic;
+    font-size: 2.5cm;
+    text-align: center;
+    text-decoration:underline overline  rgb(136, 139, 165);
+}
+.titulo4{
+    color: rgb(136, 139, 165);
+    font-style: italic;
+    font-size: 2.5cm;
+    text-align: center;
+    text-decoration:underline overline  rgb(136, 139, 165);
+}
+.principal{
+    margin: 0.1px;
+    border: solid rgb(108, 111, 138);
+    border-radius: 100%;
+}
+.misiones{
+    margin: 0.1px;
+    border: solid rgb(108, 111, 138);
+    border-radius: 100%;
+}
+.historia{
+    margin: 0.1px;
+    padding: 0.5px;
+    border: solid rgb(108, 111, 138);
+    border-radius: 100%;
+}
+.tecnologia{
+    margin: 0.1px;
+    border: solid rgb(108, 111, 138);
+    border-radius: 100%;
+}
+.video1{
+    margin: 0.1px;
+    border: solid rgb(108, 111, 138);
+    border-radius: 100%;
+}
