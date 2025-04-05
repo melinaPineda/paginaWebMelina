@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .Inicio{
     background-image: url(Img/imgAstronauta.jpeg);
     background-size: cover;
@@ -67,4 +68,17 @@
     margin: 0.1px;
     border: solid rgb(108, 111, 138);
     border-radius: 100%;
+=======
+.titulo1{
+    font-size: 2.5cm;
+    font-style: italic;
+    text-align: center;
+    text-decoration: overline underline;
+    color: cadetblue;
+}
+.Inicio{
+    background-image: url(PaginaWeb/Img/imgAstronauta.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+>>>>>>> 04f25980e07aef7234f22d7e3851757321d12c65
 }
